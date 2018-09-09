@@ -1,0 +1,8 @@
+// Terminal 1
+ska01scl:Calculator skabade$ python3 calculator_server.py
+
+// Terminal 2
+ska01scl:calculator skabade$ python3 calculator_client.py
+Enter first number: 43
+Enter second number: 23
+Addition of 43 and 23 is : 66
